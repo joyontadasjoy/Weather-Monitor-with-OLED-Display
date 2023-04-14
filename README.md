@@ -1,36 +1,54 @@
 # Weather-Monitor-with-OLED-Display
-: 
 
-Smart Weather Station
-This project is a smart weather station that measures temperature, humidity, and sunlight intensity. It also calculates the "feels like" temperature and displays a comment on the weather. The data is displayed on an OLED display.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Smart Weather Station</title>
+</head>
+<body>
+	<h1>Smart Weather Station</h1>
+	<p>This project is a smart weather station that measures temperature, humidity, and sunlight intensity. It also calculates the "feels like" temperature and displays a comment on the weather. The data is displayed on an OLED display.</p>
+<h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<ul>
+	<li>Arduino IDE</li>
+	<li>DHT11 sensor library</li>
+	<li>Adafruit SH1106 OLED display library</li>
+</ul>
 
-Getting Started
-Prerequisites
-Arduino IDE
-DHT11 sensor library
-Adafruit SH1106 OLED display library
-Hardware Requirements
-Arduino Uno
-DHT11 sensor
-LDR sensor
-OLED display
-Installing
-Download and install the Arduino IDE from the official website.
-Open the Arduino IDE and go to Sketch > Include Library > Manage Libraries.
-Search for and install the following libraries:
-DHT11 sensor library
-Adafruit SH1106 OLED display library
-Connect the DHT11 sensor and LDR sensor to the Arduino Uno as shown in the circuit diagram.
-Connect the OLED display to the Arduino Uno as shown in the circuit diagram.
-Upload the code to the Arduino Uno.
-Circuit Diagram
-Circuit Diagram
+<h3>Hardware Requirements</h3>
+<ul>
+	<li>Arduino Uno</li>
+	<li>DHT11 sensor</li>
+	<li>LDR sensor</li>
+	<li>OLED display</li>
+</ul>
 
-Usage
-After uploading the code to the Arduino Uno, the weather data will be displayed on the OLED display. The "Feels like" temperature will be used to display a comment on the weather, which will be either "It is hot today" or "The weather is okay" depending on the temperature.
+<h3>Installing</h3>
+<ol>
+	<li>Download and install the Arduino IDE from the official website.</li>
+	<li>Open the Arduino IDE and go to <strong>Sketch &gt; Include Library &gt; Manage Libraries</strong>.</li>
+	<li>Search for and install the following libraries:
+		<ul>
+			<li>DHT11 sensor library</li>
+			<li>Adafruit SH1106 OLED display library</li>
+		</ul>
+	</li>
+	<li>Connect the DHT11 sensor and LDR sensor to the Arduino Uno as shown in the circuit diagram.</li>
+	<li>Connect the OLED display to the Arduino Uno as shown in the circuit diagram.</li>
+	<li>Upload the code to the Arduino Uno.</li>
+</ol>
 
-Contributing
-This project is a personal project and contributions are not expected.
+<h3>Circuit Diagram</h3>
+<img src="https://i.imgur.com/ZJXKjxb.png" alt="Circuit Diagram">
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h2>Usage</h2>
+<p>After uploading the code to the Arduino Uno, the weather data will be displayed on the OLED display. The "Feels like" temperature will be used to display a comment on the weather, which will be either "It is hot today" or "The weather is okay" depending on the temperature.</p>
+
+<h2>Contributing</h2>
+<p>This project is a personal project and contributions are not expected.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+</body>
+</html>
