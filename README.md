@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Smart Weather Station</title>
+	<title> Weather-Monitor-with-OLED-Display </title>
 </head>
 <body>
-	<h1>Smart Weather Station</h1>
+	<h1> Weather-Monitor-with-OLED-Display</h1>
 	<p>This project is a smart weather station that measures temperature, humidity, and sunlight intensity. It also calculates the "feels like" temperature and displays a comment on the weather. The data is displayed on an OLED display.</p>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
