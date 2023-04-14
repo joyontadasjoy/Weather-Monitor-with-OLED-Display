@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Weather-Monitor-with-OLED-Display </title>
 </head>
 <body>
 	<h1> Weather-Monitor-with-OLED-Display</h1>
