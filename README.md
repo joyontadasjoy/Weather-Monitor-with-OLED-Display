@@ -38,8 +38,8 @@
 	<li>Upload the code to the Arduino Uno.</li>
 </ol>
 
-<h3>Circuit Diagram</h3>
-<img src="https://i.imgur.com/ZJXKjxb.png" alt="Circuit Diagram">
+<h3>Prototype</h3>
+<img src="https://drive.google.com/file/d/1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI/view?usp=share_link" alt="">
 
 <h2>Usage</h2>
 <p>After uploading the code to the Arduino Uno, the weather data will be displayed on the OLED display. The "Feels like" temperature will be used to display a comment on the weather, which will be either "It is hot today" or "The weather is okay" depending on the temperature.</p>
