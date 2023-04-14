@@ -39,7 +39,9 @@
 </ol>
 
 <h3>Prototype</h3>
-<img src="https://drive.google.com/file/d/1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI/view?usp=share_link" alt="Prototype">
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI" alt="Project Image">
+</p>
 
 <h2>Usage</h2>
 <p>After uploading the code to the Arduino Uno, the weather data will be displayed on the OLED display. The "Feels like" temperature will be used to display a comment on the weather, which will be either "It is hot today" or "The weather is okay" depending on the temperature.</p>
@@ -51,4 +53,4 @@
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
-![IMG20230414141439](https://user-images.githubusercontent.com/99242629/232084425-4c4fa30a-54a6-41c7-9442-01007b149f3e.jpg)
+
