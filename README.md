@@ -8,12 +8,6 @@
 	<h1> Weather-Monitor-with-OLED-Display</h1>
 	<p>This project is a smart weather station that measures temperature, humidity, and sunlight intensity. It also calculates the "feels like" temperature and displays a comment on the weather. The data is displayed on an OLED display.</p>
 <h2>Getting Started</h2>
-<h3>Prerequisites</h3>
-<ul>
-	<li>Arduino IDE</li>
-	<li>DHT11 sensor library</li>
-	<li>Adafruit SH1106 OLED display library</li>
-</ul>
 
 <h3>Hardware Requirements</h3>
 <ul>
