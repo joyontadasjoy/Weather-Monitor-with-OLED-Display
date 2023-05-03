@@ -19,14 +19,6 @@
 
 <h3>Installing</h3>
 <ol>
-	<li>Download and install the Arduino IDE from the official website.</li>
-	<li>Open the Arduino IDE and go to <strong>Sketch &gt; Include Library &gt; Manage Libraries</strong>.</li>
-	<li>Search for and install the following libraries:
-		<ul>
-			<li>DHT11 sensor library</li>
-			<li>Adafruit SH1106 OLED display library</li>
-		</ul>
-	</li>
 	<li>Connect the DHT11 sensor and LDR sensor to the Arduino Uno as shown in the circuit diagram.</li>
 	<li>Connect the OLED display to the Arduino Uno as shown in the circuit diagram.</li>
 	<li>Upload the code to the Arduino Uno.</li>
