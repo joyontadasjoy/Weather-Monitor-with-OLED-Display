@@ -26,7 +26,7 @@
 
 <h3>Prototype</h3>
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI" alt="Project Image">
+<img src="https://drive.google.com/uc?id=1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI" alt="Project Image" width="800">
 </p>
 
 <h2>Usage</h2>
