@@ -17,13 +17,6 @@
 	<li>OLED display</li>
 </ul>
 
-<h3>Installing</h3>
-<ol>
-	<li>Connect the DHT11 sensor and LDR sensor to the Arduino Uno as shown in the circuit diagram.</li>
-	<li>Connect the OLED display to the Arduino Uno as shown in the circuit diagram.</li>
-	<li>Upload the code to the Arduino Uno.</li>
-</ol>
-
 <h3>Prototype</h3>
 <p align="center">
 <img src="https://drive.google.com/uc?id=1TOFRs_JpmNWkyWuSHHfhEuhFWg_WzJhI" alt="Project Image" width="800">
